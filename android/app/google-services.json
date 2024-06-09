@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493900881295",
+    "project_id": "messageme-app-270eb",
+    "storage_bucket": "messageme-app-270eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493900881295:android:dcadd8b53d0a8605cc7ffa",
+        "android_client_info": {
+          "package_name": "com.alathwari.messageme_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcBqvDVmYcXx_pJMRqodb28qNCy98v84I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
